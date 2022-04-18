@@ -6,4 +6,3 @@ Create an express server in app.js file
 - require mongoose
 - connect it to local mongodb server instance
 
-d
