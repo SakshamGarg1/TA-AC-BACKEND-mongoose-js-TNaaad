@@ -1,0 +1,1 @@
+var mongose = mongoose.connect('url')
